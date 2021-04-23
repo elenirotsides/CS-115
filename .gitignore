@@ -1,0 +1,10 @@
+Test-Code/
+Lecture-Code/
+__pycache__
+*.txt
+*.zip
+*icloud
+*.b
+*.pdf
+*.docx
+hw10_Fall_2020

@@ -8,5 +8,6 @@ __pycache__
 *.pdf
 *.docx
 hw10_Fall_2020
-bigdict.py
-hw2_template.py
+HW-Code/bigdict.py
+HW-Code/hw2_template.py
+HW-Code/dict1.py

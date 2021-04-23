@@ -240,6 +240,7 @@ def letterCounts(fname):
                 d[lower] += 1
             else:
                 d[lower] = 1
+    file.close()
     L = []
     for i in d.keys():
         L += [(d[i], i)]
